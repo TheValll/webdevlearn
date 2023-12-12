@@ -67,16 +67,6 @@ The website will be developed with a responsive design, ensuring usability acros
 
 - List of lessons available, accompanied by a progress bar.
 
-### Language for Code
-
-- NextJS
-- PHP
-
-### Code Optimization
-
-- Implement 1 component for each form.
-- Utilize 1 navbar component for each page to enhance code reusability.
-
 ### Design to do :
 
 - Logo website
@@ -90,3 +80,13 @@ The website will be developed with a responsive design, ensuring usability acros
 - Signup modal model
 - Courses page model
 - Lesson page model
+
+## Language for Code
+
+- NextJS
+- PHP
+
+## Code Optimization
+
+- Implement 1 component for each form.
+- Utilize 1 navbar component for each page to enhance code reusability.
