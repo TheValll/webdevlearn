@@ -76,3 +76,17 @@ The website will be developed with a responsive design, ensuring usability acros
 
 - Implement 1 component for each form.
 - Utilize 1 navbar component for each page to enhance code reusability.
+
+## Design to do :
+
+- Logo website
+- Color palette
+- Fonts
+- Home page model
+- Contact page model
+
+## Design to do later :
+
+- Signup modal model
+- Courses page model
+- Lesson page model
